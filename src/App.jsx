@@ -60,16 +60,16 @@ function App() {
       Stanely <span>Jones.</span>
     </h1>
 
-    <h3>
-      Technical Support Engineer | Aspiring Full Stack Developer
-    </h3>
+   <h3>
+  Full Stack Developer | Technical Support Engineer
+</h3>
 
     <p className="intro">
-      I have experience in technical support and enterprise
-      applications, and I'm passionate about building useful
-      software, solving real-world problems, and exploring
-      modern technologies.
-    </p>
+  Building practical web applications and exploring AI-powered
+  solutions. I bring professional experience in enterprise
+  application support, along with hands-on training in Python,
+  SQL, AI/ML, and cloud technologies.
+</p>
 
     <div className="hero-buttons">
       <a href="#projects" className="primary-btn">
@@ -358,6 +358,14 @@ function App() {
       rel="noopener noreferrer"
     >
       GitHub ↗
+    </a>
+
+    <a
+      href="https://www.instagram.com/stans0010"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Instagram ↗
     </a>
   </div>
 </section>
